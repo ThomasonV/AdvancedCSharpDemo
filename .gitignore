@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# Resharper
+*.ReSharper*
+
+# Rider
+.idea/
+
+# další dočasné soubory
+*.log
+*.tmp
