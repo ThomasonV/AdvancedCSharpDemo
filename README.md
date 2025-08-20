@@ -10,7 +10,7 @@ Obsahuje pouze jeden soubor `Program.cs` s jednoduchým výpisem textu.
 ## Požadavky
 
 - .NET 8 SDK nebo novější
-- Visual Studio 2022 (doporučeno)
+- Visual Studio 2022 nebo Visual Studio Code
 
 ## Spuštění
 
