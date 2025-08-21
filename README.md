@@ -1,4 +1,5 @@
 # AdvancedCSharpDemo
+[Česky / Czech version](README.cs.md)
 
 A simple C# console project demonstrating basic console output.
 
