@@ -1,30 +1,30 @@
 # AdvancedCSharpDemo
 
-Jednoduchý konzolový projekt v C# ukazující základní výpis do konzole.
+A simple C# console project demonstrating basic console output.
 
-## Popis
+## Description
 
-Tento projekt slouží jako ukázka základní struktury C# konzolové aplikace.  
-Obsahuje pouze jeden soubor `Program.cs` s jednoduchým výpisem textu.
+This project serves as an example of a basic C# console application structure.  
+It contains only one file, `Program.cs`, with a simple text output.
 
-## Požadavky
+## Requirements
 
-- .NET 8 SDK nebo novější
-- Visual Studio 2022 nebo Visual Studio Code
+- .NET 8 SDK or newer
+- Visual Studio 2022 or Visual Studio Code
 
-## Spuštění
+## Running the Project
 
-1. Otevřete projekt ve Visual Studiu.
-2. Stiskněte `F5` nebo klikněte na **Start** pro spuštění programu.
-3. Výsledek se zobrazí v konzoli.
+1. Open the project in Visual Studio.
+2. Press `F5` or click **Start** to run the program.
+3. The output will appear in the console.
 
-## Struktura souborů
+## File Structure
 
-- `Program.cs` – hlavní program s výpisem
-- `AdvancedCSharpDemo.sln` – soubor řešení
-- `AdvancedCSharpDemo.csproj` – projektový soubor
-- `.gitignore` – ignorované soubory pro Git
+- `Program.cs` – main program with output
+- `AdvancedCSharpDemo.sln` – solution file
+- `AdvancedCSharpDemo.csproj` – project file
+- `.gitignore` – files ignored by Git
 
-## Autor
+## Author
 
 Tomáš Vokurka
